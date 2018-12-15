@@ -18,7 +18,8 @@ def get_data():
 
     return list1
 
-class TestLogin():
+
+class TestLogin:
 
     def setup(self):
         self.login = PageLogin(get_driver())
