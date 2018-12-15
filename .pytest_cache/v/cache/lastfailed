@@ -1,0 +1,6 @@
+{
+  "scripts/test_login.py::TestLogin::()::test_login[123123-8888]": true,
+  "scripts/test_login.py::TestLogin::()::test_login[13013013010-123123-88881]": true,
+  "scripts/test_login.py::TestLogin::()::test_login[13013013010-123123-88882]": true,
+  "scripts/test_login.py::TestLogin::()::test_login[13013013010-123123-88883]": true
+}

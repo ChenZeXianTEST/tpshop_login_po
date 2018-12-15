@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-KV841JB",
+    "children" : [ {
+      "name" : "4016-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_login[13030150193-123123-8888]",
+        "uid" : "3c934947dc32e43a",
+        "parentUid" : "9f5e3e00a2cc0c6a0c7ff33ec10e5aa1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544698632995,
+          "stop" : 1544698674171,
+          "duration" : 41176
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f5e3e00a2cc0c6a0c7ff33ec10e5aa1"
+    } ],
+    "uid" : "6ad6b1033bf5852fb5f3d775619f79bb"
+  } ]
+}
