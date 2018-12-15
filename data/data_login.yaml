@@ -2,3 +2,15 @@ login_test001:
   username: "13013013010"
   password: "123123"
   number: "8888"
+login_test002:
+  username: "13013013010"
+  password: "123123"
+  number: "8888"
+login_test003:
+  username: "13013013010"
+  password: "123123"
+  number: "8888"
+login_test004:
+  username: "13013013010"
+  password: "123123"
+  number: "8888"
