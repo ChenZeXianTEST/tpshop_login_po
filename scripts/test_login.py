@@ -20,11 +20,11 @@ def get_data():
 
 class TestLogin():
 
-    def setup_class(self):
+    def setup(self):
         self.login = PageLogin(get_driver())
         self.login.driver.maximize_window()
 
-    def teardown_class(self):
+    def teardown(self):
         time.sleep(2)
         self.login.driver.quit()
 
